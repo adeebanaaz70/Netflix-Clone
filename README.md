@@ -38,3 +38,7 @@ While building this project, I practiced:
 This project was created while learning the fundamentals of web development. I built most of the project using the HTML and CSS concepts I had learned at the time and used it to practice creating a complete website layout from scratch.
 
 This is my **first web development project** and an important part of my journey into frontend development.
+
+## 🌐 Live Demo
+
+[View Netflix Clone](https://adeebanaaz70.github.io/Netflix-Clone/)
